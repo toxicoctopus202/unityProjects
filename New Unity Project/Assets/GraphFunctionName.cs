@@ -6,6 +6,9 @@ Sine,
 Sine2D,
 MultiSine,
 MultiSine2D, 
-Rippple 
+Rippple, 
+Cylinder, 
+Sphere, 
+Torus
 
 } 
